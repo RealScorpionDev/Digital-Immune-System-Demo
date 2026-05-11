@@ -46,3 +46,11 @@ Each anomaly increases the suspicion score.
 ## Purpose
 
 This project is an educational experiment exploring anomaly detection and defensive software design inspired by biological immune systems.
+
+## License
+
+This project is licensed under the Apache License 2.0.
+
+Copyright 2026 RealScorpionDev.
+
+See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for more information.
